@@ -5,5 +5,5 @@ If the screen is larger than 480 pixels but smaller than 1024 pixels: the tablet
 If the screen is larger than 1024: regular desktop layout.
 
 Style of the webpage depended upon the use semantic tags when necessary, using Flex Box, 
-a nice carrousel, movement of the logo, content that were hidden when the layout is for mobile
-use of fonts that needed to be download, implement an animation for the logo, the navbar links. 
+a nice carrousel, movement of the logo, content that were hidden when the layout is for mobile,
+implement an animation for the logo, the navbar links. 
