@@ -7,3 +7,11 @@ If the screen is larger than 1024: regular desktop layout.
 Style of the webpage depended upon the use semantic tags when necessary, using Flex Box, 
 a nice carrousel, movement of the logo, content that were hidden when the layout is for mobile,
 implement an animation for the logo, the navbar links. 
+<<<<<<< HEAD
+=======
+
+
+Here is the demo:
+
+https://anishrijal.github.io/responsiveweb/
+>>>>>>> 717d47e1fdcbb0bf8caac15eab976702fc3dd3a4
