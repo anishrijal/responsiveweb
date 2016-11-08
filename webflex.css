@@ -29,7 +29,6 @@ body{
 .flex-header{
   display: flex;
   flex-wrap: wrap;
-  /*height: 100px;*/
   flex: 1;
   padding-bottom: 10px;
   border-bottom: 3px double black;
