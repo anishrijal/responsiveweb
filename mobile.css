@@ -1,3 +1,8 @@
+body{
+  left: 2%;
+  right: 2%;
+}
+
 .logo{
   left: 35%;
   flex: 0 0 100%;
@@ -26,7 +31,7 @@
 }
 .flex-list a{
   visibility: visible;
-  border-top: 1px dashed gray;
+  border-top: 1px dashed black;
 }
 .fourboxes{
   display: none;
@@ -43,7 +48,7 @@
   flex: 1;
   justify-content: center;
   /*margin-left: -30px;*/
-  border-bottom: 1px dashed gray;
+  border-bottom: 1px dashed black;
 }
 .social li:nth-of-type(odd), li:nth-of-type(even){
   flex: 1 1 50%;
@@ -52,7 +57,7 @@
   flex: 1 1 100%;
   border-right: none;
   padding-bottom: 10px;
-  border-bottom: 1px dashed gray;
+  border-bottom: 1px dashed black;
 }
 .comment{
   flex: 1 1 100%;
